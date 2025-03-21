@@ -1,10 +1,7 @@
-
 <h1 align="center">Hi 👋, I'm Jay</h1>
 <h3 align="center">A Software Engineer from the UK</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghostedxcx&label=Profile%20views&color=0e75b6&style=flat" alt="ghostedxcx" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghostedxcx" alt="ghostedxcx" /></a> </p>
 
 - 📫 How to reach me **complxent@gmail.com**
 
@@ -22,4 +19,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghostedxcx&show_icons=true&locale=en" alt="ghostedxcx" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghostedxcx&" alt="ghostedxcx" /></p>
-
